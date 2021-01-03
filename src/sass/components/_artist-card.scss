@@ -1,0 +1,14 @@
+.artists {
+  margin: 0 auto;
+  display: grid;
+  justify-content: space-evenly;
+  grid-template-columns: 20% 20% 20%;
+  grid-gap: 6rem;
+  color: $color-primary-dark;
+
+  &__card {
+    background-color: $color-grey-light-2;
+    border-radius: 5px;
+    height: 60vh;
+  }
+}
