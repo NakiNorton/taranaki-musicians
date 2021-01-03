@@ -8,7 +8,7 @@ const About = () => {
         <h2 className="heading-secondary">
           Check out our local musicians
         </h2>
-        <p className="paragraph">
+        <p className="paragraph about__textbox">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
           aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
         </p>
